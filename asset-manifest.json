@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.0df7d616.js",
-    "static/js/453.ad6eb26e.chunk.js": "/static/js/453.ad6eb26e.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.0df7d616.js.map": "/static/js/main.0df7d616.js.map",
-    "453.ad6eb26e.chunk.js.map": "/static/js/453.ad6eb26e.chunk.js.map"
+    "main.css": "/apexchart/static/css/main.e6c13ad2.css",
+    "main.js": "/apexchart/static/js/main.0ea9ed6a.js",
+    "static/js/453.ad6eb26e.chunk.js": "/apexchart/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/apexchart/index.html",
+    "main.e6c13ad2.css.map": "/apexchart/static/css/main.e6c13ad2.css.map",
+    "main.0ea9ed6a.js.map": "/apexchart/static/js/main.0ea9ed6a.js.map",
+    "453.ad6eb26e.chunk.js.map": "/apexchart/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.0df7d616.js"
+    "static/js/main.0ea9ed6a.js"
   ]
 }
